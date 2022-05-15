@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1117073472
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 257d2c5c7643482c9cfd294623f071bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Textures/concrete_01_dif.png
+Dependencies: []
